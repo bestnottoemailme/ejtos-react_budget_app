@@ -11,3 +11,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn-primary {
+background-color: blue;
+}
+
+.currency-dropdown option:hover {
+background-color: rgb(147, 228, 153);
+color: black;
+}
+
+.currency-dropdown option:checked {
+background-color: white;
+color: black;
+}
+
+.alert.alert-tertiary {
+background-color: rgb(147, 228, 153);
+color: white;
+border: none;
+}
+
+option:hover {
+background-color: white;
+}
+
+.btn-plus {
+    color: white;
+    background-color: #4FAC5C;
+    border-radius: 12px;
+    border: none;
+
+}
+
+.btn-minus {
+    color: white;
+    background-color: #AF2419;
+    border-radius: 12px;
+    border: none;
+
+}
